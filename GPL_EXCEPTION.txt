@@ -1,0 +1,2 @@
+Project Tox GPL Exception version 1.0
+-----------------------------------
