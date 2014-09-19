@@ -1,2 +1,8 @@
-Project Tox GPL Exception version 1.0
------------------------------------
+In addition, as a special exception, the copyright holders of
+the Tox Project give you permission to use Toxcore in Apple iOS
+applications which are not covered under the GNU
+General Public License, provided that:
+A) On demand, you make the source code of Your Software available
+   under the terms of any open source license that is compatable with the GNU GPL.
+B) All distributions of Your Software prominently advertise condition
+   of this exception.
