@@ -1,5 +1,5 @@
 In addition, the copyright holders of the Tox Project give you permission to
-use Toxcore in Apple iOS applications which are not covered under The GNU
+use and distribute Toxcore in Apple iOS applications which are not covered under The GNU
 General Public License v3.0, provided that:
 A) On demand, you make the source code of Your Software available under the
    terms of any open source license that is compatible with The GNU
