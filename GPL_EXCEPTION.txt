@@ -8,3 +8,5 @@ B) All distributions of Your Software prominently advertise condition A) of
    this exception.
 C) It is otherwise impossible to distribute the application through the
    official Apple distribution channel.
+D) Any changes you make to the source code of Toxcore must be made public under The GNU
+   General Public License v3.0.
