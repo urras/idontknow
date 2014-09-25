@@ -10,3 +10,5 @@ C) It is otherwise impossible to distribute the application through the
    official Apple distribution channel.
 D) Any changes you make to the source code of Toxcore must be made public under The GNU
    General Public License v3.0.
+E) All binary releases must be accompanied by a notice of where the user can freely
+   obtain a digital copy of the source code.
